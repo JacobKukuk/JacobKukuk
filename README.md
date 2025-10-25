@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jacob Kukuk
+# 👋 Hi
 
 **Full-Stack Developer | Systems Engineer | Digital Polymath**
 
@@ -9,7 +9,7 @@ I blend code, infrastructure, and creativity to build reliable systems and user-
 ## 💡 About Me
 
 ### Self-Taught Excellence  
-I didn’t follow the usual tech path. I learned through doing—reading docs, experimenting, and solving problems hands-on. That same drive keeps me learning every day.
+I didn’t follow the usual tech path. I learned through doing, reading docs, experimenting, and solving problems hands-on. That same drive keeps me learning every day.
 
 ### Versatile Problem Solver  
 From full-stack apps to enterprise systems, I’ve built, fixed, and scaled it all. I focus on crafting tools that last, perform, and make people’s work easier.
@@ -41,6 +41,11 @@ I use tech to give back. I lead **Vegas Open Network (VONet)**, a nonprofit proj
 
   <!-- Development Tools & Frameworks -->
   <img src="https://skillicons.dev/icons?i=git,visualstudio,vscode,bootstrap,tailwind" />
+</p>
+
+<p align="center">
+  <b>Also experienced with:</b><br>
+  VMware • Citrix • Office 365 • SharePoint • Active Directory • BGP • 3CX • Twilio
 </p>
 
 ## 🤝 Let’s Connect
