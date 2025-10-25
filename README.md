@@ -1,16 +1,23 @@
-## Hi there 👋
+## 🛠️ Languages and Tools
 
-<!--
-**JacobKukuk/JacobKukuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<p align="center">
+  <!-- Programming & Development -->
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,powershell,bash" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <!-- Cloud Platforms -->
+  <img src="https://skillicons.dev/icons?i=azure,aws" />
+
+  <!-- Virtualization & Infrastructure -->
+  <img src="https://skillicons.dev/icons?i=docker" />
+
+  <!-- Operating Systems -->
+  <img src="https://skillicons.dev/icons?i=windows,ubuntu,debian" />
+
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=mssql,mysql,sqlite,redis" />
+
+  <!-- Development Tools & Frameworks -->
+  <img src="https://skillicons.dev/icons?i=git,visualstudio,vscode,bootstrap,tailwind" />
+</p>
