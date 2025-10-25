@@ -2,10 +2,6 @@
 
 I blend code, infrastructure, and creativity to build reliable systems and user friendly tools across courtrooms, campuses, and the cloud.
 
----
-
-## 💡 About Me
-
 ### Self-Taught Excellence  
 I didn’t follow the usual tech path. I learned through doing, reading docs, experimenting, and solving problems hands-on. That same drive keeps me learning every day.
 
