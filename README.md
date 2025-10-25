@@ -1,6 +1,6 @@
 # Full-Stack Developer | Systems Engineer | Digital Polymath
 
-I blend code, infrastructure, and creativity to build reliable systems and user-friendly tools—across courtrooms, campuses, and the cloud.
+I blend code, infrastructure, and creativity to build reliable systems and user friendly tools across courtrooms, campuses, and the cloud.
 
 ---
 
