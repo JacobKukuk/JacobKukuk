@@ -8,8 +8,6 @@ I didn’t follow the usual tech path. I learned through doing, reading docs, ex
 ### Versatile Problem Solver  
 From full-stack apps to enterprise systems, I’ve built, fixed, and scaled it all. I focus on crafting tools that last, perform, and make people’s work easier.
 
-### Community Impact  
-I use tech to give back. I lead **Vegas Open Network (VONet)**, a nonprofit project bringing fair and open internet access to underserved communities through mesh networking.
 
 ---
 
